@@ -1,2 +1,17 @@
 Hello, let's get to know a little of the simplest command of the Python programming language o print ()
-pritn('Olá, mundo !')
+pritn('Olá, Dev !')
+The print() function is always accompanied by parentheses, 
+if you already move or have seen something about programming languages, you must remember that every command ends with ";" 
+Python does not use this condition!
+
+Python accepts both single quotes ('') and double quotes ("") in its strings.
+now you must be wondering what a string is.
+
+A "string" and all messages within quotation marks ('' or "")
+
+we can see in the example below
+print ('Hello world")
+print ("Hello world")
+
+
+In the next class, we'll look at variables and the "input ()" function, even more Dev
