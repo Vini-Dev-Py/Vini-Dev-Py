@@ -15,7 +15,7 @@ Tenho experiência no desenvolvimento **Front-End**, **Back-End** e **Mobile**, 
 
 - **Front-End:** React, Angular, Vue.js
 - **Mobile:** Flutter, React Native
-- **Back-End:** Node.js, .NET, PHP, Python
+- **Back-End:** Node.js, .NET, PHP, Python, Go
 - **Banco de Dados:** PostgreSQL, MySQL
 - **DevOps:** Docker, Docker-Compose, Git, GitHub
 - **Outros:** Redis, Testes unitários
@@ -26,6 +26,7 @@ Sou um entusiasta da programação e estou sempre buscando aprender algo novo, a
 
 ## 📌 Projetos em destaque
 
+- 🎣 Webhook de integração com o banco Itaú para PIX e Boletos com Go
 - 💼 Sistema de Gerenciamento para Academia JP Power
 - 💬 Sistema de atendimento via WhatsApp com Express, React, PostgreSQL e Redis  
 - 🏥 Projeto Back-End para Hospital Sírio-Libanês com Node.js e Nest.js  
