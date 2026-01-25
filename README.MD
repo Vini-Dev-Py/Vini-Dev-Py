@@ -28,9 +28,10 @@ Sou um entusiasta da programação e estou sempre buscando aprender algo novo, a
 
 - 🎣 Webhook de integração com o banco Itaú para PIX e Boletos com Go
 - 💼 Sistema de Gerenciamento para Academia JP Power
+- 💪 Sistema e APP de Gerenciamento de treinos e dieta, com visão para personal e alunos
 - 💬 Sistema de atendimento via WhatsApp com Express, React, PostgreSQL e Redis  
 - 🏥 Projeto Back-End para Hospital Sírio-Libanês com Node.js e Nest.js  
-- 🏗️ Plataforma MRV com React e .NET  
+- 🏗️ Plataforma MRV com React e .NET
 
 ---
 
