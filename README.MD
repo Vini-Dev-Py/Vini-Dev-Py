@@ -16,7 +16,7 @@ Tenho experiência no desenvolvimento **Front-End**, **Back-End** e **Mobile**, 
 - **Front-End:** React, Angular, Vue.js
 - **Mobile:** Flutter, React Native
 - **Back-End:** Node.js, .NET, PHP, Python, Go
-- **Banco de Dados:** PostgreSQL, MySQL
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB
 - **DevOps:** Docker, Docker-Compose, Git, GitHub
 - **Outros:** Redis, Testes unitários
 
