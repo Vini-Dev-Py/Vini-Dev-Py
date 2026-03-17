@@ -18,7 +18,7 @@ Tenho experiência no desenvolvimento **Front-End**, **Back-End** e **Mobile**, 
 - **Back-End:** Node.js, .NET, PHP, Python, Go
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB
 - **DevOps:** Docker, Docker-Compose, Git, GitHub
-- **Outros:** Redis, Testes unitários
+- **Outros:** Redis, Testes unitários, Google Cloud Storage
 
 Sou um entusiasta da programação e estou sempre buscando aprender algo novo, atualmente estudando **Ciência da Computação** na **UNIP Bauru** e realizando cursos pela **Udemy**.
 
